@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently job hunting, working on building a [personal website](https://www.diegopisciotta.com) to showcase my work, and creating fun quests for my friends to play in our D&D sessions<br>👯 I’m looking to collaborate on building fun TTRPG settings to play D&D in<br>🤝 I’m looking for help with networking to land a job I can be proud of that helps make the world a better place<br>🌱 I’m currently learning how to use PHP and how to write scripts to run in [Foundry](https://github.com/Daegybyte/website_projects/blob/main/foundry.md)<br>💬 Ask me about software engineering, world travel, and my corgi<br>⚡ Fun fact: We live closer in time to T-Rex than it lived to Stegosaurus
 
 
