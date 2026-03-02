@@ -1,5 +1,25 @@
 # About Me:
-Software engineer with an M.S. from the University of Utah. I build full-stack apps, train ML models, and maintain a multi-server Linux home lab because apparently that's how I relax. Passionate about clean code, automation, and systems that hold up. Also: D&D DM and proud corgi owner. 🐕
+# Hi, I'm Diego 👋
+
+I'm a software engineer with an M.S. in Software Engineering from the University of Utah, passionate about building things that work — and understanding why they do.
+
+My work spans the full stack: I've built web apps, trained ML models, automated infrastructure, and maintained a multi-server Linux home lab that I keep running just because I enjoy it. I like writing clean, purposeful code and thinking carefully about how systems fit together.
+
+## What I'm Focused On
+
+- 🖥️ **Full-stack development** — React, Node, C#/.NET, Python
+- 🤖 **ML/AI** — from training pipelines to model integration
+- ⚙️ **DevOps & automation** — CI/CD, Docker, Linux, AWS, Cloudflare
+
+## Currently
+
+- 🔭 Open to junior software engineering roles
+- 🌱 Always learning and building
+- 🐕 Being judged by my corgi
+
+---
+
+💬 Ask me about software engineering, world travel, or why T-Rex and Stegosaurus never met.
 
 
 ## 🌐 Socials:
