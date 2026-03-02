@@ -19,11 +19,18 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 
 ---
 
-💬 Ask me about software engineering, world travel, or why T-Rex and Stegosaurus never met.
+### 💬 Ask me about software engineering, world travel, or why T-Rex and Stegosaurus never met.
 
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diegopisciotta) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Dav) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Daegybyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Daegybyte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diegopisciotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegopisciotta" height="30" width="40" /></a>
+</p>
+
+---
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
