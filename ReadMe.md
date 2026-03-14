@@ -19,7 +19,7 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 
 ---
 
-### 💬 Ask me about software engineering, world travel, or why T-Rex and Stegosaurus never met.
+### 💬 Ask me about software engineering, world travel, or why T-Rex and Stegosaurus never met. 🦖  
 
 ---
 
