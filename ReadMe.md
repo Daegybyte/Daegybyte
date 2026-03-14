@@ -15,7 +15,7 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 
 - 🔭 Open to junior software engineering roles
 - 🌱 Always learning and building
-- 🐕 Being judged by my corgi
+- 🐕 Being judged by my corgi, [Doc](https://diegopisciotta.com/doc)
 
 ---
 
