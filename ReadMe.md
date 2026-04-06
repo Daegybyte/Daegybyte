@@ -1,5 +1,5 @@
 # About Me:
-# Hi, I'm Diego 👋
+# Hi, I'm Diego
 I'm a software engineer with an M.S. in Software Engineering from the University of Utah.
 
 I learned the fundamentals before the AI age — now I stay curious and adapt. I'm passionate about building things that work — and understanding why they do. Backend-focused, systems-minded, and endlessly curious about how new tools reshape what's possible.
@@ -7,16 +7,16 @@ I learned the fundamentals before the AI age — now I stay curious and adapt. I
 My work spans the full stack: I've built web apps, trained ML models, automated infrastructure, and maintained a multi-server Linux home lab that I keep running just because I enjoy it. I like writing clean, purposeful code and thinking carefully about how systems fit together.
 
 ## What I'm Focused On
-- 🖥️ **Full-stack development** — Python, React, Node, C#/.NET
-- 🤖 **ML/AI** — from training pipelines to model integration
-- ⚙️ **DevOps & automation** — CI/CD, Docker, Linux, AWS, Cloudflare
+- **Full-stack development** — Python, React, Node, C#/.NET
+- **ML/AI** — from training pipelines to model integration
+- **DevOps & automation** — CI/CD, Docker, Linux, AWS, Cloudflare
 
 ## Currently
 
-- 🔭 Open to junior software engineering roles
-- 🌱 Always learning and building
-- 🐕 Being judged by my corgi, [Doc](https://diegopisciotta.com/doc)
-- 🎮 Playing The Elder Scrolls III: Morrowind
+- Open to junior software engineering roles
+- Always learning and building
+- Being judged by my corgi, [Doc](https://diegopisciotta.com/doc)
+- Playing The Elder Scrolls III: Morrowind
 
 ---
 
@@ -24,7 +24,7 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 
 ---
 
-## 🌐 Socials:
+## Socials:
 <p align="left">
 <a href="https://github.com/Daegybyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Daegybyte" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diegopisciotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegopisciotta" height="30" width="40" /></a>
