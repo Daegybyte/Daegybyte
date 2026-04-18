@@ -55,14 +55,14 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 
 **Databases**
 
-| | | | | | |
-|---|---|---|---|---|---|
+| | | | | |
+|---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40"/> | |
 
 **DevOps & Infrastructure**
 
-| | | | | | |
-|---|---|---|---|---|---|
+| | | | | |
+|---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | |
 
 **Tools**
