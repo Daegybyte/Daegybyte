@@ -32,6 +32,7 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 <a href="https://github.com/Daegybyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Daegybyte" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/diegopisciotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegopisciotta" height="30" width="40" /></a>
 </p>
+| | |
 
 ---
 # 💻 Tech Stack:
