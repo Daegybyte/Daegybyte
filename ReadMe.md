@@ -28,11 +28,7 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 
 | | |
 |---|---|
-<p align="left">
-| <a href="https://github.com/Daegybyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Daegybyte" height="30" width="40" /></a>
-| <a href="https://linkedin.com/in/diegopisciotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegopisciotta" height="30" width="40" /></a>
-</p>
-| | |
+| <a href="https://github.com/Daegybyte" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40"/></a> | <a href="https://linkedin.com/in/diegopisciotta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a> |
 
 ---
 # 💻 Tech Stack:
