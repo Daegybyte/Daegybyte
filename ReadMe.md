@@ -49,8 +49,8 @@ My work spans the full stack: I've built web apps, trained ML models, automated 
 
 **AI / ML**
 
-| | | | | | |
-|---|---|---|---|---|---|
+| | | | | |
+|---|---|---|---|---|
 | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/> | |
 
 **Databases**
